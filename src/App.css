@@ -1,0 +1,9 @@
+#root {
+  text-align: center;
+}
+
+.background {
+  background-color: grey;
+  height: 100vh;
+  width: 100vh;
+}
